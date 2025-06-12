@@ -1,0 +1,2 @@
+config SHIELD_NICCOPAD
+  def_bool $(shields_list_contains,niccopad)

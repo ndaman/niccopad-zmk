@@ -1,0 +1,11 @@
+file_format: "1"
+id: niccopad
+name: NiccoPad
+type: shield
+url: https://github.com/ndaman/niccopad
+requires: [pro_micro]
+exposes: [i2c_oled]
+features:
+  - keys
+  - display
+  - encoder
