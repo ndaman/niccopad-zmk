@@ -46,7 +46,7 @@
       compatible = "zmk,kscan-gpio-direct";
       wakeup-source;
 
-      input-gpios = <&pro_micro 10 (GPIO_ACTIVE_LOW | GPIO_PULL_UP)>
+      input-gpios = <&pro_micro 10 (GPIO_ACTIVE_LOW | GPIO_PULL_UP)>;
     };
 
     numpad_transform: keymap_transform_0 {
