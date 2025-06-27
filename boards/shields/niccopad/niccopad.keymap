@@ -5,7 +5,7 @@
 
 #define TIMEOUT 300
 
-&left_encoder {
+&encoder {
   status = "okay";
 };
 
