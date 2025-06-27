@@ -1,7 +1,7 @@
 if SHIELD_NICCOPAD
 
   config ZMK_KEYBOARD_NAME
-    default "NiccoPad"
+    default "niccopad"
 
   config ZMK_DISPLAY
     default y

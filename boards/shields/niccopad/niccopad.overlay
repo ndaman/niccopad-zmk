@@ -1,7 +1,5 @@
 #include <dt-bindings/zmk/matrix_transform.h>
 
-#include "niccopad-layout.dtsi"
-
 / {
     chosen {
       zephyr,display = &oled;
