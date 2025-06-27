@@ -24,7 +24,7 @@ if SHIELD_NICCOPAD
     config LV_DPI_DEF
       default 148
 
-    config LV_Z_BITZ_PER_PIXEL
+    config LV_Z_BITS_PER_PIXEL
       default 1
 
     choice LV_COLOR_DEPTH
